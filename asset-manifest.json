@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c53984b.chunk.css",
+    "main.js": "/static/js/main.79934105.chunk.js",
+    "main.js.map": "/static/js/main.79934105.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/css/2.929389fa.chunk.css": "/static/css/2.929389fa.chunk.css",
+    "static/js/2.5c66d1ac.chunk.js": "/static/js/2.5c66d1ac.chunk.js",
+    "static/js/2.5c66d1ac.chunk.js.map": "/static/js/2.5c66d1ac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b61fbb29fa3d6cbd925a3883f1d74564.js": "/precache-manifest.b61fbb29fa3d6cbd925a3883f1d74564.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.929389fa.chunk.css.map": "/static/css/2.929389fa.chunk.css.map",
+    "static/css/main.4c53984b.chunk.css.map": "/static/css/main.4c53984b.chunk.css.map",
+    "static/js/2.5c66d1ac.chunk.js.LICENSE": "/static/js/2.5c66d1ac.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/General_BG_new.db42d1c9.png",
+    "static/media/img8.png": "/static/media/img8.e66ac1c7.png",
+    "static/media/logo-big.png": "/static/media/logo-big.02833725.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/css/2.929389fa.chunk.css",
+    "static/js/2.5c66d1ac.chunk.js",
+    "static/css/main.4c53984b.chunk.css",
+    "static/js/main.79934105.chunk.js"
+  ]
+}
